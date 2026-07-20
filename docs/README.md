@@ -613,8 +613,6 @@ Computer Science Engineering Student
 
 ---
 
----
-
 # Internship
 
 This project was developed as part of the CodSoft Backend Development Internship (Task 3 - To-Do List Backend)
